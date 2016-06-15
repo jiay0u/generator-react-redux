@@ -1,0 +1,9 @@
+{
+  "definition" : [
+    {
+      "path" : "/ncfb/test",
+      "morkFile" : "test.json",
+      "type": "post"
+    }
+  ]
+}
